@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotebookLite</string>
+    <string name="add_file">Добавить файл</string>
+    <string name="open_file">Открыть файл</string>
+    <string name="empty_list">Список пуст</string>
+    <string name="header_title">Мое приложение</string>
+</resources>
